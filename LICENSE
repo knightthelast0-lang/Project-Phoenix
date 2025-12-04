@@ -1,13 +1,31 @@
-MIT License
+MIT License with Additional Ethical Restrictions
 
-Copyright (c) 2025 knightthelast0-lang
+Copyright (c) 2024 [Your Pseudonym]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+copies of the Software, subject to the following additional restrictions:
+
+ETHICAL RESTRICTIONS:
+1. This Software MAY NOT be used for:
+   - Military applications, warfare, or weapons systems
+   - Surveillance, tracking, or monitoring of individuals without consent
+   - Law enforcement applications that infringe on human rights
+   - Any application that causes or could cause harm to humans
+
+2. This Software MAY be used for:
+   - AI safety research and development
+   - Academic and educational purposes
+   - Non-commercial safety testing
+   - Commercial applications ONLY with written permission from the author
+     and ONLY after ethical review demonstrating no harmful use.
+
+VIOLATION OF THESE RESTRICTIONS IMMEDIATELY TERMINATES ALL PERMISSIONS
+GRANTED UNDER THIS LICENSE.
+
+---
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
